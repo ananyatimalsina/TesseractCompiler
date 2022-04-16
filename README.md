@@ -1,2 +1,2 @@
 # TesseractCompiler
-Script that Compiles Tesseract from ether Sw or Vs.
+Script that Compiles Tesseract ether from Sw or Vs.
